@@ -1,7 +1,6 @@
 # WVTopMenu
 
-This is an adaptation of MFSideMenu that is meant to be used at the top of the screen.
-https://github.com/mikefrederick/MFSideMenu
+This is an adaptation of [MFSideMenu](https://github.com/mikefrederick/MFSideMenu) that is meant to be used at the top of the screen.
 
 =======
 

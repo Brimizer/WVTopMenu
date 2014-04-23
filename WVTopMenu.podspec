@@ -7,15 +7,14 @@
 Pod::Spec.new do |s|
   s.name             = "WVTopMenu"
   s.version          = "0.1.0"
-  s.summary          = "A short description of WVTopMenu."
+  s.summary          = "Top menu adaptation of MFSideMenu."
   s.description      = <<-DESC
-                       An optional longer description of WVTopMenu
 
-                       * Markdown format.
-                       * Don't worry about the indent, we strip it!
+                       This is an adaptation of [MFSideMenu](https://github.com/mikefrederick/MFSideMenu) that is meant to be used at the top of the screen.
+
                        DESC
   s.homepage         = "https://github.com/Brimizer/WVTopMenu"
-  s.screenshots      = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
+# s.screenshots      = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Daniel Brim" => "brimizer@gmail.com" }
   s.source           = { :git => "https://github.com/Brimizer/WVTopMenu.git", :tag => s.version.to_s }
